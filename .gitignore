@@ -1,0 +1,5 @@
+corpus.json
+commands.json
+__pycache__/
+*.pyc
+_*.py
