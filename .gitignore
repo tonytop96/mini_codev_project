@@ -3,3 +3,5 @@ commands.json
 __pycache__/
 *.pyc
 _*.py
+.env
+*.env
